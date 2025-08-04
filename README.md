@@ -1,5 +1,8 @@
 # 🎵 Telegram YouTube MP3 Bot
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![ffmpeg required](https://img.shields.io/badge/ffmpeg-required-red)](https://ffmpeg.org/)
+
 Бот, который скачивает аудио с YouTube-ссылок и отправляет `.mp3` файл в Telegram.
 
 ## 🚀 Возможности
@@ -15,7 +18,8 @@
 
 - Python 3.8+
 - Telegram Bot API Token (через [@BotFather](https://t.me/BotFather))
-- [FFmpeg](https://ffmpeg.org/) установлен в системе и добавлен в переменную окружения PATH (Сайт загрузки: (https://ffmpeg.org/download.html))
+- [FFmpeg](https://ffmpeg.org/) установлен в системе и добавлен в переменную окружения PATH  
+  🔗 Сайт загрузки: https://ffmpeg.org/download.html
 
 ## 📦 Установка
 
@@ -28,13 +32,16 @@ ________________________________________________________________________________
 
 # 🎵 Telegram YouTube MP3 Bot
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![ffmpeg required](https://img.shields.io/badge/ffmpeg-required-red)](https://ffmpeg.org/)
+
 A bot that downloads audio from YouTube links and sends `.mp3` file to Telegram.
 
 ## 🚀 Features
 
 - Downloads audio from YouTube via link
 - Converts to `.mp3` format via `ffmpeg`
-- Sends a file to the user directly in the chat
+- Sends file to user directly in chat
 - Supports commands:
 - `/start` — greeting
 - `/music <link>` — download audio
@@ -43,7 +50,8 @@ A bot that downloads audio from YouTube links and sends `.mp3` file to Telegram.
 
 - Python 3.8+
 - Telegram Bot API Token (via [@BotFather](https://t.me/BotFather))
-- [FFmpeg](https://ffmpeg.org/) installed in the system and added to the PATH environment variable (Download site: (https://ffmpeg.org/download.html))
+- [FFmpeg](https://ffmpeg.org/) installed in the system and added to PATH environment variable
+🔗 Download site: https://ffmpeg.org/download.html
 
 ## 📦 Installation
 
